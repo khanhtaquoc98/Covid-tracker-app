@@ -19,5 +19,9 @@
 ![Full Map](https://github.com/khanhtaquoc98/Covid-tracker-app/blob/master/assets/tracker-imagebg.png?raw=true)
 
 
+## 3. Tools & Libraries
+- [ReactNative](https://reactnative.dev/) - A framework for building native apps using React
+- [Expo](https://expo.io/) - Build one project that runs natively on all your users' devices
+
 ## 3. References
 - [Covid 19 UI](https://www.youtube.com/watch?v=HAJNavojC8s) - React Native : Covid 19 UI Speed Code (with React Navigation v5)
